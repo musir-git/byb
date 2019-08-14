@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0"> 
+ <qresource prefix="">
+    <file alias="123.png">123.png</file>
+  </qresource>
+</RCC>
